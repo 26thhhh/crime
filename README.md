@@ -7,3 +7,9 @@ Run `python3 crime_ui.py`. The first interactive launch asks for a five-digit Un
 Run `python3 collect.py` to fetch public records and `python3 -m unittest -v` to run the tests. This project uses only the Python standard library.
 
 Generated SQLite history, logs, and local location settings are excluded from source control.
+
+Copyright © 2026 Kyanee Lozano. All rights reserved.
+
+This repository is publicly available for portfolio and demonstration
+purposes. No permission is granted to copy, modify, redistribute, sublicense,
+or use this source code in another project without prior written permission.
