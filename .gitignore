@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+history.sqlite3*
+collector.log
+last_success
