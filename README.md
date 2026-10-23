@@ -1,5 +1,7 @@
 # SAPD Call History
 
+<img width="950" height="469" alt="image" src="https://github.com/user-attachments/assets/3f24dd92-d023-467c-833f-ae5855212cd6" />
+
 Terminal viewer and collector for San Antonio Police Department public calls-for-service data. The source is city-specific; ZIP configuration only sets the user's proximity reference.
 
 Run `python3 crime_ui.py`. The first interactive launch asks for a five-digit United States ZIP code. Change it later with `python3 crime_ui.py --set-zip [ZIP_CODE]`.
